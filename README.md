@@ -26,13 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Enumerable <a name="about-project"></a>
+# 📖 [Enumerable] <a name="about-project"></a>
 
-<<<<<<< HEAD
 **[Enumerable]** is a project that enumerates over each item
-=======
-**Enumerable** is a project that enumerates over each item
->>>>>>> b8e3d9b152625ae65bf56950dbd03f8650c39d04
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,10 +47,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b8e3d9b152625ae65bf56950dbd03f8650c39d04
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -63,10 +55,7 @@
 
 - install ruby on you pc
 - follow this installation [instruction](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md#windows)
-<<<<<<< HEAD
 - clone this repository
-=======
->>>>>>> b8e3d9b152625ae65bf56950dbd03f8650c39d04
 - navigate to enumerable folder
 - open the folder on your code editor
 
@@ -120,7 +109,6 @@ If you like this project leave a star
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
