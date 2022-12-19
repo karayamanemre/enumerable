@@ -26,9 +26,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Enumerable] <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
+<<<<<<< HEAD
 **[Enumerable]** is a project that enumerates over each item
+=======
+**Enumerable** is a project that enumerates over each item
+>>>>>>> b8e3d9b152625ae65bf56950dbd03f8650c39d04
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,6 +51,10 @@
 
 ### Key Features <a name="key-features"></a>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b8e3d9b152625ae65bf56950dbd03f8650c39d04
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -55,7 +63,10 @@
 
 - install ruby on you pc
 - follow this installation [instruction](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md#windows)
+<<<<<<< HEAD
 - clone this repository
+=======
+>>>>>>> b8e3d9b152625ae65bf56950dbd03f8650c39d04
 - navigate to enumerable folder
 - open the folder on your code editor
 
@@ -77,8 +88,6 @@ Clone this repository to your desired folder:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Emre Karayaman**
 
@@ -112,14 +121,11 @@ If you like this project leave a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my microverse code reviewers for there guidance and feedback
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
