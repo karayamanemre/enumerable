@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -36,8 +28,6 @@
 
 # 📖 [Enumerable] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Enumerable]** is a project that enumerates over each item
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -49,15 +39,13 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Ruby</a></li>
+    <li><a href="https://www.ruby-lang.org/">Ruby</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-- **[decode_morse_text]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +55,8 @@
 
 - install ruby on you pc
 - follow this installation [instruction](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md#windows)
-- navigate to debose-morse folder
+- clone this repository
+- navigate to enumerable folder
 - open the folder on your code editor
 
 ### Prerequisites
